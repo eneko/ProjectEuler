@@ -10,4 +10,6 @@
 
 @interface Problem8 : NSObject
 
++ (int)solve;
+
 @end
