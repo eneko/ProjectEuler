@@ -13,7 +13,7 @@ int main(int argc, const char * argv[])
 {
     @autoreleasepool {
         
-        printf("%d", [Problem8 solve]);
+        printf("%d\n", [Problem8 solve]);
         
     }
     return 0;
