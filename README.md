@@ -43,3 +43,5 @@ Timing the solutions
 
 Solutions can be timed for performance analysis using the unix `time` command, although this will include time to start the process and/or compilation time in the case of the `scala` command.
 
+    $ time scala scala/problem8.scala
+
