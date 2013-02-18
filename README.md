@@ -17,6 +17,7 @@ Current Solutions
 | Problem 9 | Solved |  |  |  |  |
 | Problem 10 | Solved |  |  |  |  |
 | Problem 11 | Solved |  |  |  |  |
+| Problem 12 | Solved (very slow solution) |  |  |  |  |
 
 Running the solutions on the command line
 -----------------------------------------
