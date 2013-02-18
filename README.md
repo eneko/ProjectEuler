@@ -16,6 +16,7 @@ Current Solutions
 | Problem 8 | Solved | Solved | Solved | In Progress |  |
 | Problem 9 | Solved |  |  |  |  |
 | Problem 10 | Solved |  |  |  |  |
+| Problem 11 | Solved |  |  |  |  |
 
 Running the solutions on the command line
 -----------------------------------------
