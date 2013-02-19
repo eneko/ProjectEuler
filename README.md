@@ -1,12 +1,9 @@
 
-**WARNING:** This repository contains solutions in multiple languages to the problems proposed at www.projecteuler.net. Beware of the spoilers. You should not look at these solutions **unless you have already solved the problems yourself**.
-
-
 Project Euler - My Solutions
 ============================
-This repository contains my personal solutions to Project Euler problems (visit www.projecteuler.net for reference), implemented in multiple programming languages. Some of the solutions may have different variants.
+**DISCLAIMER:** This repository contains my personal solutions, implemented in multiple programming languages, to the Project Euler problems (see www.projecteuler.net). Beware of the spoilers. **Do not look at these solutions unless you have already solved the problems yourself**.
 
-To make it easier to share and review solutions, each one is standalone and contained on a single file. All solutions are also executable on the command line.
+To make it easier to share and review solutions, each solution is standalone and contained on a single file. All solutions are executable on the command line.
 
 
 Current Solutions
