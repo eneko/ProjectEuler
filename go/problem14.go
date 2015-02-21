@@ -35,10 +35,10 @@ func main() {
   max := 0
   max_i := 0
   for i := 999999; i > 1; i-- {
-    fmt.Printf("Computing sequence for %v: ", i)
+    // fmt.Printf("Computing sequence for %v: ", i)
     seq := Collatz(i)
     seq_len := len(seq)
-    fmt.Printf("%v items\n", seq_len)
+    // fmt.Printf("%v items\n", seq_len)
     if seq_len > max {
       max = seq_len
       max_i = i
