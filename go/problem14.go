@@ -38,11 +38,11 @@ func main() {
     fmt.Printf("Computing sequence for %v: ", i)
     seq := Collatz(i)
     seq_len := len(seq)
+    fmt.Printf("%v items\n", seq_len)
     if seq_len > max {
       max = seq_len
       max_i = i
     }
-    fmt.Printf("%v items\n", seq_len)
   }
   fmt.Printf("Longest sequence: f(%v) [%v items]\n", max_i, max)
   printSequence(Collatz(max_i))
