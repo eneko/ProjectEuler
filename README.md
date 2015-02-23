@@ -1,20 +1,37 @@
 Project Euler - My Solutions
 ============================
 
-**DISCLAIMER:** This repository contains solutions to Project Euler (www.projecteuler.net) problems implemented in multiple programming languages. Beware of spoilers. **Do not look at these solutions unless you have solved the problems yourself**.
+**DISCLAIMER:** This repository contains solutions to Project Euler (www.projecteuler.net) problems implemented in multiple programming languages. Beware of spoilers.
+
+**Do not look at these solutions unless you have solved the problems yourself**.
 
 To make it easier to share and review solutions, each solution is standalone and contained on a single file. All solutions are executable on the command line.
 
 Current Solutions
 -----------------
 
-| Problem | Scala | Python | Objective-C | Javascript | PHP |
+| Problem | Go | Scala | Python | Objective-C | Javascript | PHP |
 |---------------|----------------|----------------|----------------|----------------|----------------|
-| Problem 8 | Solved | Solved | Solved | In Progress |  |
-| Problem 9 | Solved |  |  |  |  |
-| Problem 10 | Solved |  |  |  |  |
-| Problem 11 | Solved |  |  |  |  |
-| Problem 12 | Solved (very slow solution) |  |  |  |  |
+| Problem 1 | | | | | | |
+| Problem 2 | | | | | | |
+| Problem 3 | | | | | | |
+| Problem 4 | | | | | | |
+| Problem 5 | | | | | | |
+| Problem 6 | | | | | | |
+| Problem 7 | | | | | | |
+| Problem 8 | | √ | √ | √ | | |
+| Problem 9 | | √ | | | | |
+| Problem 10 | | √ | | | | |
+| Problem 11 | | √ | | | | |
+| Problem 12 | | √ | | | | |
+| Problem 13 | | | | | | |
+| Problem 14 | | | | | | |
+| Problem 15 | | | | | | |
+| Problem 16 | | | | | | |
+| Problem 17 | | | | | | |
+| Problem 18 | | | | | | |
+| Problem 19 | | | | | | |
+| Problem 20 | | | | | | |
 
 Running the solutions on the command line
 -----------------------------------------
@@ -34,4 +51,3 @@ Running the solutions on the command line
 
 ###PHP
     $ php php/problemX.php
-
