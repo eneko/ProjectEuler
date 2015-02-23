@@ -7,7 +7,30 @@ Project Euler - My Solutions
 
 To make it easier to share and review solutions, each solution is standalone and contained on a single file. All solutions are executable on the command line.
 
-Current Solutions
+Running the solutions on the command line
+-----------------------------------------
+
+###Go
+    $ go run go/problemX.go
+
+###Scala
+    $ scala scala/problemX.scala
+
+###Python
+    $ python python/problemX.py
+
+###Objective-C
+	# Compile project in XCode
+	# Run binary file
+
+###Javascript
+    $ node javascript/problemX.js
+
+###PHP
+    $ php php/problemX.php
+
+
+Solved Problems
 -----------------
 
 | Problem | Go | Scala | Python | Objective-C | Javascript | PHP |
@@ -32,22 +55,3 @@ Current Solutions
 | Problem 18 | | | | | | |
 | Problem 19 | | | | | | |
 | Problem 20 | | | | | | |
-
-Running the solutions on the command line
------------------------------------------
-
-###Scala
-    $ scala scala/problemX.scala
-
-###Python
-    $ python python/problemX.py
-
-###Objective-C
-	# Compile project in XCode
-	# Run binary file
-
-###Javascript
-    $ node javascript/problemX.js
-
-###PHP
-    $ php php/problemX.php
