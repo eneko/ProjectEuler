@@ -54,7 +54,7 @@ Solved Problems
 | Problem 17 | √ | | | | | |
 | Problem 18 | | | | | | |
 | Problem 19 | √ | | | | | |
-| Problem 20 | | | | | | |
+| Problem 20 | √ | | | | | |
 | Problem 21 | | | | | | |
 | Problem 22 | | | | | | |
 | Problem 23 | | | | | | |
