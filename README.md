@@ -1,46 +1,57 @@
-
 Project Euler - My Solutions
 ============================
-**DISCLAIMER:** This repository contains my personal solutions, implemented in multiple programming languages, to the Project Euler problems (see www.projecteuler.net). Beware of the spoilers. **Do not look at these solutions unless you have already solved the problems yourself**.
+
+**DISCLAIMER:** This repository contains solutions to Project Euler (www.projecteuler.net) problems implemented in multiple programming languages. Beware of spoilers.
+
+**Do not look at these solutions unless you have solved the problems yourself**.
 
 To make it easier to share and review solutions, each solution is standalone and contained on a single file. All solutions are executable on the command line.
-
-
-Current Solutions
------------------
-| Problem | Scala | Python | Objective-C | Javascript | PHP |
-|---------------|----------------|----------------|----------------|----------------|----------------|
-| Problem 8 | Solved | Solved | Solved | In Progress |  |
-| Problem 9 | Solved |  |  |  |  |
-| Problem 10 | Solved |  |  |  |  |
-| Problem 11 | Solved |  |  |  |  |
-| Problem 12 | Solved (very slow solution) |  |  |  |  |
 
 Running the solutions on the command line
 -----------------------------------------
 
+###Go
+    $ go run go/problemX.go
+
 ###Scala
-    $ scala scala/problem8.scala
+    $ scala scala/problemX.scala
 
 ###Python
-    $ python python/problem8.py
+    $ python python/problemX.py
 
 ###Objective-C
 	# Compile project in XCode
 	# Run binary file
 
 ###Javascript
-    $ node javascript/problem8.js
+    $ node javascript/problemX.js
 
 ###PHP
-    $ php php/problem8.js
+    $ php php/problemX.php
 
 
+Solved Problems
+-----------------
 
-Timing the solutions
---------------------
-
-Solutions can be timed for performance analysis using the unix `time` command, although this will include time to start the process and/or compilation time in the case of the `scala` command.
-
-    $ time scala scala/problem8.scala
-
+| Problem | Go | Scala | Python | Objective-C | Javascript | PHP |
+|---------------|----------------|----------------|----------------|----------------|----------------|
+| Problem 1 | | | | | | |
+| Problem 2 | | | | | | |
+| Problem 3 | | | | | | |
+| Problem 4 | | | | | | |
+| Problem 5 | | | | | | |
+| Problem 6 | | | | | | |
+| Problem 7 | | | | | | |
+| Problem 8 | | √ | √ | √ | | |
+| Problem 9 | | √ | | | | |
+| Problem 10 | | √ | | | | |
+| Problem 11 | | √ | | | | |
+| Problem 12 | | √ | | | | |
+| Problem 13 | | | | | | |
+| Problem 14 | √ | | | | | |
+| Problem 15 | √ | | | | | |
+| Problem 16 | √ | | | | | |
+| Problem 17 | √ | | | | | |
+| Problem 18 | | | | | | |
+| Problem 19 | | | | | | |
+| Problem 20 | | | | | | |
