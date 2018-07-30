@@ -10,51 +10,51 @@ To make it easier to share and review solutions, each solution is standalone and
 Running the solutions on the command line
 -----------------------------------------
 
-###Go
+### Go
     $ go run go/problemX.go
 
-###Scala
+### Scala
     $ scala scala/problemX.scala
 
-###Python
+### Python
     $ python python/problemX.py
 
-###Objective-C
+### Objective-C
 	# Compile project in XCode
 	# Run binary file
 
-###Javascript
+### Javascript
     $ node javascript/problemX.js
 
-###PHP
+### PHP
     $ php php/problemX.php
 
 
 Solved Problems
 -----------------
 
-| Problem | Go | Scala | Python | Objective-C | Javascript | PHP |
-|---------------|----------------|----------------|----------------|----------------|----------------|
-| Problem 1 | | | | | | |
-| Problem 2 | | | | | | |
-| Problem 3 | | | | | | |
-| Problem 4 | | | | | | |
-| Problem 5 | | | | | | |
-| Problem 6 | | | | | | |
-| Problem 7 | | | | | | |
-| Problem 8 | | √ | √ | √ | | |
-| Problem 9 | | √ | | | | |
-| Problem 10 | | √ | | | | |
-| Problem 11 | | √ | | | | |
-| Problem 12 | | √ | | | | |
+| Problem    | Go | Scala | Python | Objective-C | Javascript | PHP |
+|------------|----|-------|--------|-------------|------------|-----|
+| Problem 1  | | | | | | |
+| Problem 2  | | | | | | |
+| Problem 3  | | | | | | |
+| Problem 4  | | | | | | |
+| Problem 5  | | | | | | |
+| Problem 6  | | | | | | |
+| Problem 7  | | | | | | |
+| Problem 8  | | ✅ | ✅ | ✅ | | |
+| Problem 9  | | ✅ | | | | |
+| Problem 10 | | ✅ | | | | |
+| Problem 11 | | ✅ | | | | |
+| Problem 12 | | ✅ | | | | |
 | Problem 13 | | | | | | |
-| Problem 14 | √ | | | | | |
-| Problem 15 | √ | | | | | |
-| Problem 16 | √ | | | | | |
-| Problem 17 | √ | | | | | |
+| Problem 14 | ✅ | | | | | |
+| Problem 15 | ✅ | | | | | |
+| Problem 16 | ✅ | | | | | |
+| Problem 17 | ✅ | | | | | |
 | Problem 18 | | | | | | |
-| Problem 19 | √ | | | | | |
-| Problem 20 | √ | | | | | |
+| Problem 19 | ✅ | | | | | |
+| Problem 20 | ✅ | | | | | |
 | Problem 21 | | | | | | |
 | Problem 22 | | | | | | |
 | Problem 23 | | | | | | |
